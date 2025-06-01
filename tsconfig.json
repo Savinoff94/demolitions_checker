@@ -8,6 +8,15 @@
     },
     {
       "path": "./apps/server"
+    },
+    {
+      "path": "./types"
+    },
+    {
+      "path": "./redis"
+    },
+    {
+      "path": "./mongo"
     }
   ]
 }
